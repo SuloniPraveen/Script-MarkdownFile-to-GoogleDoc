@@ -20,6 +20,7 @@ This script parses markdown-formatted meeting notes and creates a professionally
 ```
 ├── Markdown_To_GoogleDoc.ipynb    # Main Colab notebook
 └── README.md
+└── Product Team Sync - May 15, 2023 (Auto-Generated).pdf   # Google Doc Pdf Output File
 ```
 
 ## Dependencies
